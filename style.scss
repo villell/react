@@ -1,4 +1,4 @@
-$font-stack:    Helvetica, sans-serif;
+$font-stack:    Arial, sans-serif;
 $primary-color: blue;
 
 body {
@@ -6,4 +6,10 @@ body {
   color: $primary-color;
 }
 
+.button{
+    color: $primary-color;
+    background: grey;
+    padding: 10px 20px;
+    font: $font-stack;
+}
 

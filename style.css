@@ -2,7 +2,9 @@ body {
   font: 200% Helvetica, sans-serif;
   color: blue; }
 
-div {
-  color: blue; }
+.button {
+  color: blue;
+  background: grey;
+  padding: 10px 20px; }
 
 /*# sourceMappingURL=style.css.map */
