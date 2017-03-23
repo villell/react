@@ -1,10 +1,13 @@
+/* sass --watch style.scss:style.css */
 body {
-  font: 200% Helvetica, sans-serif;
-  color: blue; }
+  font: 200% Arial, sans-serif;
+  color: red;
+  background-color: green; }
 
 .button {
-  color: blue;
+  color: red;
   background: grey;
-  padding: 10px 20px; }
+  padding: 10px 20px;
+  font: Arial, sans-serif; }
 
 /*# sourceMappingURL=style.css.map */

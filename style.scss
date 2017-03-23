@@ -1,9 +1,14 @@
+
+/* sass --watch style.scss:style.css */
+
 $font-stack:    Arial, sans-serif;
-$primary-color: blue;
+$primary-color: red;
+$secondary-color: green;
 
 body {
   font: 200% $font-stack;
   color: $primary-color;
+  background-color: $secondary-color;
 }
 
 .button{
@@ -12,4 +17,3 @@ body {
     padding: 10px 20px;
     font: $font-stack;
 }
-
